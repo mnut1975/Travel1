@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+
+
+.Pic1{
+    background-color: #2f332d;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+img {
+    width: 30%;
+}
+.navbar1 {
+    background-color: #C4BEB5;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar2 {
+    background-color: #c1730e;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {color: #4d693a;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;}
+
+    .navbar1 a{
+        text-decoration: none;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+
+.greecetext1 {
+    
+    justify-content:center;
+    align-items: center;
+}
